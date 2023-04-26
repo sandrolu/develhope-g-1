@@ -16,5 +16,4 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>Employee__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>ItHope_UtilityBar</utilityBar>
 </CustomApplication>
