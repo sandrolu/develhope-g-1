@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>ItHope</members>
+
+		<members>*</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>ApexComponent</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>ApexPage</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>ApexTestSuite</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>Onboarding_Tasks__c.Contacts__c</members>
+		<members>Onboarding_Tasks__c.Contracts_and_Documents__c</members>
+		<members>Onboarding_Tasks__c.Create_new_accounts__c</members>
+		<members>Onboarding_Tasks__c.Feedback_Description__c</members>
+		<members>Onboarding_Tasks__c.Feedback__c</members>
+		<members>Onboarding_Tasks__c.Security_and_privacy_training__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Onboarding_Tasks__c</members>
+   <members>ItHope</members>
 		<name>CustomApplication</name>
 	</types>
 	<types>
@@ -21,6 +56,7 @@
 	</types>
 	<types>
 		<members>Employee__c</members>
+
 		<name>CustomObject</name>
 	</types>
 	<types>
@@ -31,5 +67,5 @@
 		<members>*</members>
 		<name>CustomTab</name>
 	</types>
-	<version>55.0</version>
+<version>55.0</version>
 </Package>
