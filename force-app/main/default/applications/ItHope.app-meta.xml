@@ -12,6 +12,4 @@
     <label>ItHope</label>
     <navType>Standard</navType>
     <tabs>standard-Dashboard</tabs>
-    <uiType>Lightning</uiType>
-    <utilityBar>ItHope_UtilityBar1</utilityBar>
 </CustomApplication>

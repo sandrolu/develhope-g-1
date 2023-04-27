@@ -10,7 +10,6 @@
 	</types>
 	<types>
 		<members>*</members>
-		<name>CustomObjectTranslation</name>
 	</types>
 	<version>55.0</version>
 </Package>
