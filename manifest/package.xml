@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-
 		<members>*</members>
 		<name>ApexClass</name>
 	</types>
@@ -35,37 +34,24 @@
 		<name>CustomField</name>
 	</types>
 	<types>
-		<members>Onboarding_Tasks__c</members>
-   <members>ItHope</members>
-		<name>CustomApplication</name>
-	</types>
-	<types>
-		<members>Employee__c.Age__c</members>
-		<members>Employee__c.Application_status__c</members>
-		<members>Employee__c.City_of_Residence__c</members>
-		<members>Employee__c.Email__c</members>
-		<members>Employee__c.Gender__c</members>
-		<members>Employee__c.Last_Name__c</members>
-		<members>Employee__c.Qualification__c</members>
-		<members>Employee__c.Select__c</members>
-		<name>CustomField</name>
-	</types>
-	<types>
 		<members>*</members>
 		<name>CustomLabels</name>
 	</types>
 	<types>
-		<members>Employee__c</members>
-
+		<members>Onboarding_Tasks__c</members>
 		<name>CustomObject</name>
-	</types>
-	<types>
-		<members>*</members>
-		<name>CustomObjectTranslation</name>
 	</types>
 	<types>
 		<members>*</members>
 		<name>CustomTab</name>
 	</types>
-<version>55.0</version>
+	<types>
+		<members>*</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>StaticResource</name>
+	</types>
+	<version>55.0</version>
 </Package>
