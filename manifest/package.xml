@@ -25,20 +25,15 @@
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
-		<members>Onboarding_Tasks__c.Contacts__c</members>
-		<members>Onboarding_Tasks__c.Contracts_and_Documents__c</members>
-		<members>Onboarding_Tasks__c.Create_new_accounts__c</members>
-		<members>Onboarding_Tasks__c.Feedback_Description__c</members>
-		<members>Onboarding_Tasks__c.Feedback__c</members>
-		<members>Onboarding_Tasks__c.Security_and_privacy_training__c</members>
-		<name>CustomField</name>
+		<members>ItHope</members>
+		<name>CustomApplication</name>
 	</types>
 	<types>
 		<members>*</members>
 		<name>CustomLabels</name>
 	</types>
 	<types>
-		<members>Onboarding_Tasks__c</members>
+		<members>Employee__c</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
