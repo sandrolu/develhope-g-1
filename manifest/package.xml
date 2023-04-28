@@ -25,10 +25,6 @@
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>CustomApplicationComponent</name>
-	</types>
-	<types>
 		<members>Onboarding_Tasks__c.Contacts__c</members>
 		<members>Onboarding_Tasks__c.Contracts_and_Documents__c</members>
 		<members>Onboarding_Tasks__c.Create_new_accounts__c</members>
