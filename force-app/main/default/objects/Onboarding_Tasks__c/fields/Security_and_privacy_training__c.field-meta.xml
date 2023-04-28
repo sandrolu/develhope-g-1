@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Qualification__c</fullName>
+    <fullName>Security_and_privacy_training__c</fullName>
+    <description>The employee must complete security training and data privacy training.</description>
     <externalId>false</externalId>
-    <label>Qualification</label>
+    <label>Security and privacy training</label>
     <required>true</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
@@ -11,14 +13,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Diploma</fullName>
+                <fullName>Executed</fullName>
                 <default>false</default>
-                <label>High School Diploma</label>
+                <label>Executed</label>
             </value>
             <value>
-                <fullName>University_Graduate</fullName>
+                <fullName>Not executed</fullName>
                 <default>false</default>
-                <label>University Graduate</label>
+                <label>Not executed</label>
             </value>
         </valueSetDefinition>
     </valueSet>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Gender__c</fullName>
+    <fullName>Create_new_accounts__c</fullName>
+    <description>The employee must create new accounts on the enterprise collaboration platforms.</description>
     <externalId>false</externalId>
-    <label>Gender</label>
+    <label>Create new accounts</label>
     <required>true</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
@@ -11,14 +13,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Male</fullName>
+                <fullName>Executed</fullName>
                 <default>false</default>
-                <label>Male</label>
+                <label>Executed</label>
             </value>
             <value>
-                <fullName>Female</fullName>
+                <fullName>Not executed</fullName>
                 <default>false</default>
-                <label>Female</label>
+                <label>Not executed</label>
             </value>
         </valueSetDefinition>
     </valueSet>
