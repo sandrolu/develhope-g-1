@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>Onboarding_Tasks__c</members>
-		<name>CustomObject</name>
+		<members>*</members>
+		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>My_Flow_to_send_contract_to_approved_Employee</members>
-		<name>Flow</name>
+		<name>FlowDefinition</name>
 	</types>
 	<version>55.0</version>
 </Package>
