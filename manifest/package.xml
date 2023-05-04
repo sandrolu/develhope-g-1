@@ -25,10 +25,6 @@
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
-		<members>Onboarding_Tasks__c.Feedback_Description__c</members>
-		<name>CustomField</name>
-	</types>
-	<types>
 		<members>*</members>
 		<name>CustomLabels</name>
 	</types>
