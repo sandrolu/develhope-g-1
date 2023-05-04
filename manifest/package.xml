@@ -4,5 +4,9 @@
 		<members>Onboarding_Tasks__c</members>
 		<name>CustomObject</name>
 	</types>
+	<types>
+		<members>My_Flow_to_send_contract_to_approved_Employee</members>
+		<name>Flow</name>
+	</types>
 	<version>55.0</version>
 </Package>
