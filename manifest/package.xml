@@ -6,6 +6,11 @@
 	</types>
 	<types>
 		<members>My_Flow_to_send_contract_to_approved_Employee</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>My_Flow_to_send_contract_to_approved_Employee</members>
+		<name>FlowDefinition</name>
 	</types>
 	<version>55.0</version>
 </Package>
